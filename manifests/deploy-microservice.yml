@@ -8,7 +8,7 @@ metadata:
     name: cmg-microservice
     namespace: microservices
 spec:
-    replicas: 6
+    replicas: 7
     selector:
         matchLabels:
             run: cmg-microservice
